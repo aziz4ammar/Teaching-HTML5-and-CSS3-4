@@ -1,0 +1,19 @@
+#premier{
+    background-color: orange;
+    margin-left: 3em;
+    width: 100px;
+    height: 75px;
+    margin: 0;
+}
+#second{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background-color: green;
+    margin-left: 3em;
+    left: 20px;
+    bottom: 35px;
+}
+div{
+    width: 300px;height: 200px;background-color: yellow;position: relative;
+}
